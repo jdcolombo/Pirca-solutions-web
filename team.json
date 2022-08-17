@@ -1,0 +1,98 @@
+[ 
+{
+    "id": 1,
+    "name": "Pacha",
+    "position": "CEO",
+    "description": "Mountain Walker"
+},
+{
+    "id": 2,
+    "name": "Church",
+    "position": "CTO",
+    "description": "The Chef"
+},
+{
+    "id": 4,
+    "name": "Leito",
+    "position": "Full Stack Guru",
+    "description": "Super Fixer Hero"
+},
+{
+    "id": 5,
+    "name": "Nacho 1",
+    "position": "Backend Developer",
+    "description": "Professional Multitasker"
+},
+{
+    "id": 19,
+    "name": "Vani",
+    "position": "UX Writer",
+    "description": "Creative Lawyer"
+},
+{
+    "id": 6,
+    "name": "Nacho 2",
+    "position": "Backend Developer",
+    "description": "Crypto Evangelist"
+},
+{
+    "id": 7,
+    "name": "Die",
+    "position": "Front End Developer",
+    "description": "Martial Arts Master"
+},
+{
+    "id": 8,
+    "name": "Angel",
+    "position": "Scrum Master",
+    "description": "Tigre Fan" 
+},
+{
+    "id": 18,
+    "name": "Piojo",
+    "position": "Data Analyst",
+    "description": "Board Gamer"
+},
+{
+    "id": 10,
+    "name": "Fede",
+    "position": "Frontend Developer",
+    "description": "Handyman"
+},
+{
+    "id": 11,
+    "name": "Lean",
+    "position": "Backend Developer",
+    "description": "Wooden Dancer"
+},
+{
+    "id": 17,
+    "name": "Agus",
+    "position": "Community Manager",
+    "description": "Casual Photographer"
+},
+{
+    "id": 12,
+    "name": "Osky",
+    "position": "Product Owner",
+    "description": "Whisky Specialist"
+},
+{
+    "id": 13,
+    "name": "Santi",
+    "position": "Backend Developer",
+    "description": "The butcher"
+},
+{
+    "id": 14,
+    "name": "Luki",
+    "position": "Tech Support",
+    "description": "Jedi Youngling"
+},
+{
+    "id": 15,
+    "name": "Lucio",
+    "position": "Frontend Developer",
+    "description": "CSS Expert"
+}
+]
